@@ -1,2 +1,2 @@
-# dm-scripts
+# scripts
 Some useful scripts for daily use
